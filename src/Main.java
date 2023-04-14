@@ -4,6 +4,6 @@ public class Main {
     }
 
     public static void printHello() {
-        System.out.println("Sieg Heil, Bibillyro!");
+        System.out.println("Saludos, Bibillyro!");
     }
 }
